@@ -1,0 +1,106 @@
+html { 
+    font-family: 'Heebo', sans-serif;
+
+}
+body{
+    background: linear-gradient(to right, brown 30%, white 0%);
+}
+.Content {
+    display: flex;
+    justify-content: left;
+}
+.ContentPosition {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 450px;
+}
+.Pic {
+    height: 280px;
+    display: flex;
+}
+.FotoDePerfil {
+    display: flex;
+    width: 250px;
+    height: 250px;
+    border: 3px solid greenyellow;
+    border-radius: 50%;
+}
+.Name {
+    color: greenyellow;
+    font-size: 40px;
+    font-weight: 800;
+}
+.Title {
+    color: goldenrod;
+    font-size: 24px;
+    font-weight: 700;
+}
+.Argumento {
+    text-align: center;
+    font-size: 18px;
+    font-weight: 500;
+}
+.Idiomas {
+    text-align: center;
+    font-size: 16px;
+    font-weight: 500;
+}
+.Bandera1 {
+    width: 80px;
+    height: 80px;
+    border: 3px solid;
+    border-radius: 50%
+}
+.Bandera2 {
+    width: 80px;
+    height: 80px;
+    border: 3px solid;
+    border-radius: 50%
+}
+.Bandera3 {
+    width: 80px;
+    height: 80px;
+    border: 3px solid;
+    border-radius: 50%
+}
+.Top {
+    height: 550px;
+}
+.Expierence {
+    width: 500px;
+    margin: 0px 0px 0px 200px;
+    text-align: center;
+    font-size: 36px;
+    font-weight: 800;
+    color: greenyellow;
+    border: 3px double goldenrod;
+}
+.Bottom {
+    width: 550px;
+}
+.Projects{
+    width: 500px;
+    margin: 0px 0px 0px 200px;
+    text-align: center;
+    font-size: 36px;
+    font-weight: 800;
+    color: greenyellow;
+    border: 3px double goldenrod;
+}
+.Contact {
+    text-align: center;
+    margin: 70px 1px 1px 30px;
+    font-size: 28px;
+    font-weight: 600;
+}
+.ContactContent {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+.ItemText {
+    font-size: 24px;
+    font-weight: 400;
+}
+
